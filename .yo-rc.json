@@ -1,0 +1,18 @@
+{
+  "generator-plugin-wp": {
+    "name": "WDS Pluginize Add EDD Meta to Search",
+    "homepage": "http://webdevstudios.com",
+    "description": "Adds Easy Digital Downloads meta and taxonomies to WordPress search.",
+    "version": "0.1.0",
+    "author": "WebDevStudios",
+    "authoremail": "contact@webdevstudios.com",
+    "authorurl": "http://webdevstudios.com",
+    "license": "GPLv2",
+    "slug": "wds-pluginize-edd-search",
+    "classname": "WDS_EDD_Search",
+    "classprefix": "WDSEDDS_",
+    "prefix": "wds_edd_search",
+    "year": 2016,
+    "currentVersionWP": "4.6.1"
+  }
+}
