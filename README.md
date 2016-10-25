@@ -1,7 +1,5 @@
-# WDS Pluginize Add EDD Meta to Search #
-**Contributors:**      WebDevStudios  
-**Donate link:**       http://webdevstudios.com  
-**Tags:**  
+# Add EDD Meta to Search #
+**Contributors:**      [jazzsequence](https://github.com/jazzsequence)  
 **Requires at least:** 4.4  
 **Tested up to:**      4.6.1 
 **Stable tag:**        1.0.0  
@@ -16,8 +14,8 @@ Adds Easy Digital Downloads meta and taxonomies to WordPress search.
 
 ### Manual Installation ###
 
-1. Upload the entire `/wds-pluginize-edd-search` directory to the `/wp-content/plugins/` directory.
-2. Activate WDS Pluginize Add EDD Meta to Search through the 'Plugins' menu in WordPress.
+1. Upload the entire `/add-edd-meta-to-search` directory to the `/wp-content/plugins/` directory.
+2. Activate Add EDD Meta to Search through the 'Plugins' menu in WordPress.
 
 ## Frequently Asked Questions ##
 
@@ -27,10 +25,10 @@ Adds Easy Digital Downloads meta and taxonomies to WordPress search.
 
 ## Changelog ##
 
-### 0.1.0 ###
+### 1.0.0 ###
 * First release
 
 ## Upgrade Notice ##
 
-### 0.1.0 ###
+### 1.0.0 ###
 First Release
