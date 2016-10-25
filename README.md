@@ -1,7 +1,7 @@
 # Add EDD Meta to Search #
 **Contributors:**      [jazzsequence](https://github.com/jazzsequence)  
 **Requires at least:** 4.4  
-**Tested up to:**      4.6.1 
+**Tested up to:**      4.6.1  
 **Stable tag:**        1.0.0  
 **License:**           GPLv2  
 **License URI:**       http://www.gnu.org/licenses/gpl-2.0.html  
